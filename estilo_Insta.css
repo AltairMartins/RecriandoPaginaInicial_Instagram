@@ -83,9 +83,49 @@ body {
     border-radius: 4px;
 }
 
+.instagram-entrar{
+    background-color: #86cdfc;
+    color: #ffffff;
+    width: 250px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
+}
+
+
+.form-control{
+    width: 250px;
+    padding: 8px;
+    margin: 5px;   
+    align-items: center;
+    border:1px solid rgb(185, 184, 184);
+    border-radius: 2px;
+
+}
+.campotext{
+
+    width: 250px;
+    padding: 8px;
+    margin: 4px;   
+    align-items: center;
+    border:1px solid rgb(185, 184, 184);
+    border-radius: 2px;
+
+}
+
+.camposenha{
+    
+    width: 250px;
+    padding: 8px;
+    margin: 4px;   
+    align-items: center;
+    border:1px solid rgb(185, 184, 184);
+    border-radius: 2px;
+
 }
 
 .not-account {
